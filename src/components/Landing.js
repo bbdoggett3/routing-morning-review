@@ -10,7 +10,7 @@ function Landing() {
       </h1>
       <Link to="/meet-me/Michael/Scott">Michael Scott</Link>
       <Link to="/meet-me/Dwight/Schrute">Dwight Schrute</Link>
-      <Link to="/meet-me/Jim/Halpart">Jim Halpert</Link>
+      <Link to="/meet-me/Jim/Halpert">Jim Halpert</Link>
       <Link to="/meet-me/Pam/Beesly">Pam Beesly</Link>
       <Link to="/meet-me/Stanley/Hudson">Stanley Hudson</Link>
       <Link to="/meet-me/Phyllis/Vance">Phyllis Vance</Link>
